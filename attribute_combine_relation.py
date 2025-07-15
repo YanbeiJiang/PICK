@@ -8,7 +8,7 @@ from google import genai
 from PIL import Image
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
-gemini_client = genai.Client(api_key="AIzaSyDsJCdYVRgy2ESi9kxK_zn-lwJU9F-q_s4")
+gemini_client = genai.Client(api_key="YOUR_API_KEY")
 
 def load_json_data(json_path):
     with open(json_path, 'r') as f:
