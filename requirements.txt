@@ -1,0 +1,43 @@
+# Core ML and Data Processing
+torch
+numpy
+pandas
+scikit-learn
+scipy
+
+# Computer Vision and Image Processing
+Pillow
+opencv-python
+
+# Transformers and NLP
+transformers
+tokenizers
+datasets
+peft
+trl
+
+# API Clients
+google-generativeai
+openai
+
+# Progress Bars and Utilities
+tqdm
+argparse
+
+# Specific Model Support
+qwen-vl-utils
+
+# Optional: For better performance
+flash-attn
+
+# Testing and Metrics
+pytest
+
+# Jupyter (if using notebooks)
+jupyter
+ipykernel
+
+# Additional utilities that might be needed
+requests
+matplotlib
+seaborn
